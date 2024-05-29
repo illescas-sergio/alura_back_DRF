@@ -1,0 +1,40 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+.DS_Store
+
+# Environments
+.env
+.vscode/
+.idea/
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+../venv/
+
+# MySQL
+*.sql
+
+# PostgreSQL
+*.psql
+*.pg
+
+# sqlite
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Static files
+/staticfiles/
+
+/media/
+
+/local_settings.py
