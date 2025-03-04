@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'users',
     'userprofile',
     'products',
-    # 'buycart',
+    'buycart',
     'corsheaders',
     'rest_framework.authtoken'
 ]
